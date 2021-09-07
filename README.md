@@ -1,2 +1,2 @@
 # Try1
-First git repo
+First git repo for git commands
